@@ -1,2 +1,3 @@
 # Credit-Risk
-Determining whether a person will avail for personal loan or not
+Predicting whether a person will avail for a personal loan or not, based on historical data.
+
