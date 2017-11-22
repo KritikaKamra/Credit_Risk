@@ -1,0 +1,1001 @@
+SavingsID,Age,Work_Exp,Annual_Income,ZIP,FamilySize,Edu_Level,OtherLoan_Monthly,Securities_Account,CD_Account,Online_Services,CreditCard,CC_Spend,PersonalLoan
+1614001,47,21,900000,90245,2,Master's and above,0,No,No,No,No,0,No
+1213402,40,14,1640000,94720,1,Bachelor's,0,No,No,No,No,0,Yes
+1213803,33,7,810000,92647,3,Higher Secondary,0,No,No,Yes,Yes,16000,No
+1214204,37,13,950000,90095,2,Bachelor's,8300,No,No,No,No,0,No
+1214605,52,28,440000,90747,3,Bachelor's,0,No,No,No,Yes,19000,No
+1215006,33,7,880000,94583,3,Higher Secondary,0,No,No,Yes,Yes,16000,No
+1215407,62,36,1480000,94111,3,Bachelor's,0,No,No,Yes,No,0,Yes
+1215808,62,37,1690000,95014,3,Bachelor's,18400,No,Yes,Yes,Yes,50000,Yes
+1216209,63,37,110000,91711,1,Bachelor's,10200,No,No,No,Yes,8000,No
+1216610,55,25,920000,94550,1,Master's and above,15800,No,No,No,Yes,30000,No
+1217011,33,9,740000,92120,3,Bachelor's,0,No,No,Yes,No,0,No
+1217412,25,1,720000,94301,3,Higher Secondary,0,No,No,Yes,No,0,No
+1217813,55,31,630000,95616,3,Higher Secondary,0,No,No,Yes,No,0,No
+1218214,29,3,1720000,92373,2,Higher Secondary,41500,No,No,Yes,No,0,No
+1218615,45,21,1830000,90029,2,Higher Secondary,0,No,No,Yes,Yes,14000,No
+1219016,60,34,400000,91311,1,Master's and above,16600,No,No,Yes,No,0,No
+1219417,44,18,680000,92673,4,Higher Secondary,0,Yes,No,No,Yes,29000,No
+1219818,48,23,780000,91423,4,Master's and above,0,No,No,Yes,No,0,No
+1220219,57,32,680000,90041,2,Higher Secondary,18400,No,No,No,No,0,No
+1220620,58,32,490000,94005,1,Higher Secondary,9900,No,No,Yes,Yes,14000,No
+1221021,58,33,390000,94132,2,Master's and above,0,No,No,Yes,No,0,No
+1221422,44,20,1510000,95193,1,Higher Secondary,39200,No,No,Yes,No,0,No
+1221823,54,28,1590000,90245,2,Higher Secondary,46100,No,No,Yes,No,0,No
+1222224,59,33,890000,94608,4,Bachelor's,0,No,No,Yes,Yes,19000,No
+1222625,63,37,1050000,92694,4,Master's and above,24400,No,No,No,Yes,17000,No
+1223026,61,35,780000,90840,2,Higher Secondary,0,No,No,Yes,Yes,20000,No
+1223427,58,32,1280000,94609,2,Higher Secondary,34400,No,No,No,No,0,No
+1223828,44,20,810000,90254,4,Higher Secondary,22800,No,No,No,Yes,8000,No
+1224229,53,29,500000,93305,4,Master's and above,15200,No,No,Yes,No,0,No
+1224630,63,39,380000,92624,3,Master's and above,17800,No,No,Yes,Yes,1000,No
+1225031,41,17,1190000,94960,2,Higher Secondary,26300,Yes,No,Yes,No,0,No
+1225432,50,26,1100000,94509,3,Bachelor's,0,No,No,Yes,No,0,No
+1225833,51,25,290000,90212,1,Master's and above,10200,No,No,No,Yes,14000,No
+1226234,47,22,190000,94590,1,Master's and above,0,No,No,Yes,No,0,No
+1226635,43,19,1300000,90630,2,Master's and above,22100,No,No,No,Yes,47000,Yes
+1227036,46,21,380000,90024,1,Higher Secondary,13000,No,No,Yes,No,0,No
+1227437,50,24,310000,95054,1,Master's and above,0,No,No,No,No,0,No
+1227838,33,9,140000,91320,4,Bachelor's,10500,No,No,Yes,No,0,No
+1228239,27,2,1580000,95060,3,Bachelor's,0,No,Yes,Yes,No,0,Yes
+1228640,34,8,390000,92124,4,Higher Secondary,11500,No,No,Yes,No,0,No
+1229041,34,9,1410000,95616,2,Master's and above,0,No,No,No,Yes,49000,Yes
+1229442,28,2,330000,95814,3,Higher Secondary,16700,No,No,Yes,No,0,No
+1229843,29,5,920000,95006,2,Higher Secondary,0,No,No,Yes,No,0,No
+1230244,52,26,780000,94301,3,Bachelor's,0,No,No,No,No,0,No
+1230645,47,22,420000,91754,3,Bachelor's,0,No,No,Yes,Yes,27000,No
+1231046,41,16,150000,94124,2,Bachelor's,8300,No,No,No,No,0,No
+1231447,58,32,480000,91768,1,Bachelor's,0,No,No,Yes,No,0,No
+1231848,37,12,630000,95630,3,Higher Secondary,0,No,No,Yes,No,0,No
+1232249,57,33,1490000,95060,1,Higher Secondary,0,Yes,No,No,No,0,No
+1232650,63,39,490000,90275,1,Higher Secondary,10300,No,No,Yes,No,0,No
+1233051,60,35,1250000,94720,2,Higher Secondary,0,No,No,No,No,0,No
+1233452,50,25,580000,92131,1,Bachelor's,0,No,No,Yes,No,0,No
+1233853,60,35,480000,94538,3,Higher Secondary,0,No,No,Yes,No,0,No
+1234254,54,30,750000,94720,2,Master's and above,0,No,No,No,Yes,32000,No
+1234655,28,4,1140000,92521,2,Higher Secondary,0,No,No,Yes,No,0,No
+1235056,45,21,1340000,92697,4,Bachelor's,0,No,Yes,Yes,Yes,55000,Yes
+1235457,28,2,1110000,94305,4,Master's and above,0,No,No,Yes,No,0,No
+1235858,54,29,620000,94301,4,Bachelor's,14900,No,No,Yes,No,0,No
+1236259,42,18,450000,95616,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1236660,30,4,1130000,90064,2,Higher Secondary,0,No,No,Yes,No,0,No
+1237061,61,36,1280000,94550,1,Higher Secondary,0,No,No,Yes,No,0,No
+1237462,64,38,1680000,94061,4,Master's and above,0,No,No,Yes,No,0,Yes
+1237863,38,13,810000,90095,1,Master's and above,20600,Yes,No,Yes,No,0,No
+1238264,39,14,750000,92521,1,Bachelor's,29700,No,No,No,Yes,1000,No
+1238665,54,29,210000,95841,4,Master's and above,0,No,No,No,No,0,No
+1239066,59,33,830000,94701,3,Higher Secondary,0,No,No,Yes,No,0,No
+1239467,39,15,1210000,92354,1,Higher Secondary,36800,Yes,No,Yes,No,0,No
+1239868,63,33,400000,91320,4,Master's and above,0,No,No,Yes,No,0,No
+1240269,31,5,1010000,94501,1,Master's and above,17000,Yes,No,No,No,0,No
+1240670,56,26,900000,92120,2,Master's and above,0,No,No,No,No,0,No
+1241071,47,20,680000,91320,1,Bachelor's,0,No,No,Yes,Yes,26700,No
+1241472,28,3,740000,91330,2,Bachelor's,22100,Yes,No,No,No,0,No
+1241873,32,8,740000,93023,4,Bachelor's,25700,No,No,No,Yes,1000,No
+1242274,54,30,510000,92821,2,Master's and above,0,No,No,No,No,0,No
+1242675,29,5,1490000,94611,1,Higher Secondary,0,No,No,Yes,No,0,No
+1243076,39,15,310000,95039,1,Master's and above,8800,No,No,Yes,Yes,14000,No
+1243477,26,0,850000,95616,2,Master's and above,0,No,No,No,No,0,No
+1243878,29,-1,620000,92672,2,Master's and above,0,No,No,No,Yes,17500,No
+1244279,46,21,440000,95112,1,Higher Secondary,11000,Yes,No,Yes,No,0,No
+1244680,38,13,630000,92325,3,Master's and above,19000,Yes,Yes,Yes,Yes,5000,No
+1245081,55,31,230000,95616,2,Higher Secondary,0,No,No,Yes,Yes,3000,No
+1245482,48,22,400000,94063,3,Bachelor's,8700,No,No,Yes,No,0,No
+1245883,36,10,780000,95064,2,Master's and above,20400,No,No,Yes,Yes,45000,No
+1246284,39,13,400000,92122,3,Master's and above,12900,No,No,Yes,No,0,No
+1246685,40,16,780000,90720,4,Higher Secondary,0,Yes,Yes,Yes,No,0,No
+1247086,26,0,1290000,90028,3,Bachelor's,0,No,No,No,No,0,Yes
+1247487,55,29,710000,91311,,Bachelor's,0,No,No,No,Yes,3000,No
+1247888,61,35,230000,94720,3,Master's and above,0,No,No,Yes,No,0,No
+1248289,57,33,150000,94303,2,Higher Secondary,0,No,No,Yes,No,0,No
+1248690,56,31,280000,94720,1,Higher Secondary,13800,No,No,No,Yes,13000,No
+1249091,31,5,230000,94110,3,Higher Secondary,9500,No,No,No,No,0,No
+1249492,61,31,190000,91109,1,Master's and above,0,No,No,Yes,No,0,No
+1249893,58,32,420000,95020,3,Master's and above,15800,No,No,No,Yes,14000,No
+1250294,43,18,1130000,90036,2,Higher Secondary,32500,Yes,No,No,No,0,No
+1250695,29,5,340000,90717,4,Bachelor's,0,No,No,No,Yes,4000,No
+1251096,50,23,190000,90272,1,Bachelor's,10400,No,No,No,Yes,5000,No
+1251497,49,25,430000,94109,1,Bachelor's,0,No,No,Yes,Yes,16000,No
+1251898,43,18,1790000,94108,3,Higher Secondary,0,Yes,Yes,Yes,No,0,Yes
+1252299,58,32,440000,92182,3,Master's and above,0,No,No,No,No,0,No
+1252700,41,16,210000,92024,2,Bachelor's,0,No,No,No,No,0,No
+1253101,65,40,1150000,92647,1,Higher Secondary,17400,No,No,No,Yes,25000,No
+1253502,52,27,810000,90024,4,Bachelor's,0,No,No,No,Yes,38000,No
+1253903,55,31,910000,93555,2,Higher Secondary,0,No,No,No,No,0,No
+1254304,49,25,300000,90095,4,Bachelor's,0,No,No,No,Yes,9000,No
+1254705,52,22,550000,92129,3,Master's and above,0,No,No,Yes,No,0,No
+1255106,56,31,480000,91775,2,Master's and above,0,No,No,No,Yes,21000,No
+1255507,30,4,230000,94122,4,Bachelor's,12100,No,No,No,No,0,No
+1255908,36,10,210000,92084,3,Bachelor's,0,No,No,No,No,0,No
+1256309,41,17,550000,92374,2,Higher Secondary,0,No,No,No,No,0,No
+1256710,42,15,210000,95678,3,Bachelor's,0,No,No,Yes,No,0,No
+1257111,60,34,400000,93940,3,Master's and above,0,Yes,No,Yes,No,0,No
+1257512,44,20,300000,95020,4,Higher Secondary,0,No,No,No,Yes,3000,No
+1257913,34,9,780000,90095,3,Bachelor's,0,No,No,Yes,No,0,No
+1258314,56,32,650000,92677,2,Master's and above,0,No,No,Yes,No,0,No
+1258715,31,5,500000,91330,4,Master's and above,20900,No,No,Yes,No,0,No
+1259116,29,4,550000,90024,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1259517,31,5,1110000,94305,2,Higher Secondary,0,No,No,No,No,0,No
+1259918,36,10,210000,92008,3,Bachelor's,0,No,No,No,Yes,1000,No
+1260319,42,16,650000,92614,3,Master's and above,25600,No,No,Yes,No,0,No
+1260720,64,39,1140000,90095,1,Master's and above,0,No,No,Yes,No,0,No
+1261121,61,36,540000,91320,3,Master's and above,17900,No,No,Yes,No,0,No
+1261522,35,11,750000,94542,2,Bachelor's,0,No,No,Yes,No,0,No
+1261923,28,2,130000,91791,4,Higher Secondary,0,No,No,No,Yes,4000,No
+1262324,38,14,540000,90095,2,Master's and above,21800,No,No,No,No,0,No
+1262725,44,17,220000,94546,3,Bachelor's,12600,No,No,Yes,Yes,10000,No
+1263126,45,20,1980000,95053,2,Higher Secondary,0,No,No,Yes,Yes,28000,No
+1263527,46,20,180000,92521,1,Higher Secondary,0,No,No,Yes,Yes,2000,No
+1263928,57,32,740000,92780,4,Higher Secondary,0,No,No,No,Yes,7000,No
+1264329,40,14,610000,94539,4,Master's and above,0,No,No,Yes,No,0,No
+1264730,38,12,640000,94115,2,Higher Secondary,0,No,No,No,No,0,No
+1265131,39,14,100000,92705,2,Bachelor's,0,Yes,No,No,Yes,3000,No
+1265532,23,-2,820000,92152,2,Bachelor's,0,Yes,No,No,Yes,18000,No
+1265933,47,22,610000,94025,3,Bachelor's,16800,No,No,Yes,Yes,27000,No
+1266334,32,7,830000,94302,2,Higher Secondary,14800,Yes,No,Yes,No,0,No
+1266735,30,5,730000,93711,3,Master's and above,0,No,No,Yes,No,0,No
+1267136,54,30,220000,95060,2,Higher Secondary,8900,No,No,Yes,No,0,No
+1267537,25,0,910000,95039,2,Bachelor's,32100,No,No,No,No,0,No
+1267938,60,34,650000,95354,3,Master's and above,9400,Yes,Yes,No,Yes,22000,No
+1268339,61,36,130000,91711,3,Higher Secondary,0,No,No,Yes,No,0,No
+1268740,36,11,1030000,93555,1,Higher Secondary,25500,No,No,Yes,No,0,No
+1269141,52,26,950000,92130,1,Higher Secondary,0,No,No,Yes,No,0,No
+1269542,33,7,310000,94303,4,Higher Secondary,0,No,No,Yes,Yes,10000,No
+1269943,57,31,1310000,90405,3,Higher Secondary,0,No,No,Yes,No,0,Yes
+1270344,34,8,1750000,95051,4,Master's and above,0,Yes,Yes,Yes,Yes,11000,Yes
+1270745,50,24,380000,91105,4,Higher Secondary,0,No,No,Yes,No,0,No
+1271146,43,18,1040000,91711,3,Higher Secondary,0,No,No,Yes,No,0,No
+1271547,34,10,1140000,94305,3,Master's and above,0,No,No,No,No,0,Yes
+1271948,26,1,380000,91910,4,Bachelor's,0,No,No,Yes,No,0,No
+1272349,26,0,300000,94024,4,Master's and above,0,No,No,Yes,Yes,13000,No
+1272750,48,22,190000,95616,2,Master's and above,10600,No,No,No,No,0,No
+1273151,49,25,250000,95192,4,Higher Secondary,0,No,No,Yes,Yes,10000,No
+1273552,47,22,1240000,90027,4,Master's and above,0,No,No,No,No,0,Yes
+1273953,43,19,200000,94110,3,Higher Secondary,0,No,No,No,No,0,No
+1274354,40,15,830000,90275,1,Master's and above,0,No,No,No,No,0,No
+1274755,31,5,180000,94111,4,Bachelor's,0,No,No,No,Yes,3000,No
+1275156,27,1,990000,94305,1,Master's and above,14900,No,No,No,Yes,30000,Yes
+1275557,55,29,620000,92626,3,Bachelor's,0,No,No,Yes,No,0,No
+1275958,54,30,240000,92647,1,Bachelor's,0,No,No,No,No,0,No
+1276359,23,-1,130000,94720,4,Higher Secondary,8400,No,No,Yes,No,0,No
+1276760,54,28,640000,90095,2,Master's and above,0,Yes,No,Yes,No,0,No
+1277161,57,33,620000,92831,3,Higher Secondary,24000,No,No,No,No,0,No
+1277562,41,15,1580000,94304,,Bachelor's,0,Yes,Yes,No,Yes,47000,Yes
+1277963,28,4,880000,94024,1,Higher Secondary,0,No,No,Yes,No,0,No
+1278364,33,7,280000,94109,4,Higher Secondary,0,No,No,Yes,No,0,No
+1278765,51,27,520000,94132,2,Master's and above,0,No,No,No,No,0,No
+1279166,28,4,820000,95136,4,Higher Secondary,0,No,No,Yes,Yes,0,No
+1279567,63,37,1400000,91711,2,Higher Secondary,9700,No,No,No,Yes,69000,No
+1279968,29,4,800000,90028,1,Bachelor's,0,No,No,Yes,Yes,8000,No
+1280369,62,38,580000,94720,4,Bachelor's,22800,No,No,No,Yes,12000,No
+1280770,51,25,1800000,94701,1,Higher Secondary,0,No,No,Yes,No,0,No
+1281171,52,28,550000,94608,1,Bachelor's,22700,No,No,No,No,0,No
+1281572,43,16,650000,94110,3,Bachelor's,10000,No,No,No,No,0,No
+1281973,39,12,620000,91910,3,Bachelor's,0,No,No,No,No,0,No
+1282374,35,9,230000,95670,4,Higher Secondary,0,No,No,No,No,0,No
+1282775,34,10,350000,94309,1,Higher Secondary,0,No,No,Yes,No,0,No
+1283176,49,24,350000,94701,4,Bachelor's,0,No,No,No,Yes,2000,No
+1283577,43,18,740000,92009,4,Higher Secondary,0,No,No,No,No,0,No
+1283978,48,24,140000,91330,3,Higher Secondary,0,No,No,Yes,No,0,No
+1284379,30,4,830000,91007,2,Master's and above,19900,No,No,No,Yes,15000,No
+1284780,46,21,710000,95814,4,Master's and above,0,No,No,No,No,0,No
+1285181,43,17,530000,90245,2,Higher Secondary,13000,Yes,No,Yes,No,0,No
+1285582,27,3,1030000,92121,2,Higher Secondary,8400,No,No,No,No,0,No
+1285983,39,15,1090000,95827,1,Higher Secondary,0,No,No,Yes,No,0,No
+1286384,58,33,600000,94304,2,Bachelor's,9400,Yes,No,Yes,No,0,No
+1286785,44,17,120000,94542,3,Bachelor's,0,No,No,Yes,No,0,No
+1287186,39,15,1410000,92354,2,Higher Secondary,0,No,No,Yes,No,0,No
+1287587,35,10,1280000,92843,1,Higher Secondary,0,No,No,Yes,No,0,No
+1287988,41,16,980000,95192,3,Higher Secondary,29600,No,No,No,No,0,No
+1288389,43,18,410000,94035,1,Master's and above,0,No,No,No,No,0,No
+1288790,55,25,900000,90717,2,Master's and above,0,No,No,No,Yes,45000,No
+1289191,32,6,310000,92675,1,Higher Secondary,0,No,No,No,No,0,No
+1289592,56,26,740000,91335,1,Master's and above,0,No,No,No,No,0,No
+1289993,30,5,830000,93101,4,Master's and above,0,No,No,No,Yes,18000,No
+1290394,65,39,350000,94005,1,Master's and above,0,No,No,No,No,0,No
+1290795,31,7,1400000,95616,1,Higher Secondary,0,No,No,No,Yes,40000,No
+1291196,41,15,650000,90019,3,Master's and above,0,No,No,No,No,0,No
+1291597,55,29,350000,90007,3,Higher Secondary,0,No,No,No,No,0,No
+1291998,37,7,730000,94043,4,Master's and above,0,No,No,Yes,Yes,18000,No
+1292399,34,10,290000,93555,1,Bachelor's,0,No,No,Yes,No,0,No
+1292800,34,9,550000,92122,4,Bachelor's,14700,No,No,No,Yes,20000,No
+1293201,33,9,200000,95521,4,Bachelor's,0,No,No,Yes,No,0,No
+1293602,48,23,700000,92122,1,Bachelor's,0,No,No,No,No,0,No
+1294003,28,3,810000,92121,4,Higher Secondary,0,No,No,No,No,0,No
+1294404,30,4,250000,92173,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1294805,44,20,1190000,92677,2,Higher Secondary,23900,No,No,Yes,No,0,No
+1295206,61,35,490000,90095,4,Bachelor's,18500,No,No,No,No,0,No
+1295607,59,33,380000,92407,1,Higher Secondary,0,No,No,Yes,Yes,14000,No
+1296008,33,7,800000,91103,2,Master's and above,0,No,No,Yes,Yes,15000,No
+1296409,56,32,840000,93407,1,Higher Secondary,0,No,No,Yes,Yes,43000,No
+1296810,53,29,610000,95032,4,Bachelor's,0,No,No,Yes,No,0,No
+1297211,42,16,1730000,91355,2,Bachelor's,37300,No,Yes,Yes,Yes,15000,Yes
+1297612,43,19,600000,94301,2,Higher Secondary,0,Yes,No,No,No,0,No
+1298013,35,9,830000,90277,2,Master's and above,0,No,No,Yes,No,0,No
+1298414,61,35,590000,92697,1,Bachelor's,0,No,No,No,No,0,No
+1298815,39,9,320000,90212,3,Master's and above,11600,No,No,Yes,No,0,No
+1299216,61,37,330000,91775,3,Master's and above,0,No,No,Yes,No,0,No
+1299617,40,15,190000,90630,4,Master's and above,0,No,No,Yes,No,0,No
+1300018,34,8,140000,95014,4,Higher Secondary,0,No,No,No,No,0,No
+1300419,65,39,940000,93022,4,Higher Secondary,12000,No,Yes,Yes,Yes,41000,Yes
+1300820,40,16,1540000,94122,2,Higher Secondary,32500,No,No,Yes,No,0,No
+1301221,39,15,330000,92346,1,Bachelor's,0,No,No,No,No,0,No
+1301622,61,35,280000,93302,2,Master's and above,13500,No,No,Yes,No,0,No
+1302023,40,16,440000,93407,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1302424,49,23,810000,93107,2,Master's and above,0,No,No,No,No,0,No
+1302825,43,18,290000,95126,1,Master's and above,0,No,No,Yes,No,0,No
+1303226,45,21,580000,94025,3,Master's and above,0,Yes,No,Yes,No,0,No
+1303627,52,28,380000,95064,4,Bachelor's,0,No,No,No,Yes,9000,No
+1304028,32,8,820000,93943,3,Higher Secondary,0,No,No,Yes,Yes,15000,No
+1304429,31,7,180000,94720,1,Master's and above,0,No,No,Yes,No,0,No
+1304830,27,2,450000,94305,2,Bachelor's,0,No,No,No,Yes,17000,No
+1305231,33,9,640000,92507,4,Higher Secondary,0,No,No,No,No,0,No
+1305632,65,40,480000,94708,3,Higher Secondary,0,No,No,No,Yes,24000,No
+1306033,62,37,240000,90717,1,Master's and above,0,Yes,No,Yes,No,0,No
+1306434,55,25,650000,92093,4,Master's and above,0,No,No,Yes,No,0,No
+1306835,46,20,1110000,95037,1,Higher Secondary,32900,No,No,No,No,0,No
+1307236,37,12,1140000,91107,3,Bachelor's,0,No,No,Yes,No,0,No
+1307637,60,35,390000,91711,2,Master's and above,0,No,No,Yes,No,0,No
+1308038,44,14,190000,94112,1,Master's and above,0,No,No,No,Yes,7500,No
+1308439,35,9,220000,94085,3,Bachelor's,0,No,Yes,Yes,Yes,1000,No
+1308840,52,28,490000,94928,4,Bachelor's,0,No,No,Yes,No,0,No
+1309241,30,4,400000,90095,1,Higher Secondary,0,No,No,Yes,No,0,No
+1309642,62,36,630000,93407,1,Higher Secondary,11800,No,No,Yes,No,0,No
+1310043,41,15,550000,94305,1,Higher Secondary,0,No,No,No,No,0,No
+1310444,38,14,330000,92096,1,Bachelor's,0,No,No,Yes,No,0,No
+1310845,52,26,310000,92054,4,Master's and above,0,No,No,Yes,No,0,No
+1311246,48,24,240000,92624,4,Higher Secondary,0,No,No,Yes,No,0,No
+1311647,47,22,810000,90009,4,Master's and above,0,No,No,Yes,Yes,36000,No
+1312048,41,17,810000,95422,1,Bachelor's,22300,No,No,Yes,No,0,No
+1312449,44,20,1130000,95032,2,Higher Secondary,0,No,No,Yes,Yes,33000,No
+1312850,31,6,920000,92037,2,Higher Secondary,0,No,No,No,No,0,No
+1313251,50,25,810000,92806,1,Higher Secondary,0,No,No,No,No,0,No
+1313652,36,11,1010000,90212,3,Master's and above,0,Yes,No,No,Yes,12000,No
+1314053,52,26,780000,90720,3,Bachelor's,0,No,No,No,Yes,30000,No
+1314454,62,38,780000,92521,2,Master's and above,0,No,No,Yes,No,0,No
+1314855,55,30,350000,94025,1,Bachelor's,11800,No,No,No,Yes,15000,No
+1315256,61,37,90000,93907,2,Master's and above,0,No,No,Yes,No,0,No
+1315657,34,7,820000,95741,4,Bachelor's,0,No,No,Yes,Yes,20000,No
+1316058,34,9,410000,94305,1,Master's and above,0,No,No,No,No,0,No
+1316459,59,35,840000,92407,1,Master's and above,0,No,No,Yes,No,0,No
+1316860,41,17,420000,91910,4,Bachelor's,18500,Yes,No,Yes,No,0,No
+1317261,33,8,540000,92251,3,Higher Secondary,0,No,No,No,Yes,23000,No
+1317662,55,30,840000,95821,2,Master's and above,0,No,No,No,No,0,No
+1318063,64,40,1310000,91103,1,Higher Secondary,0,No,No,No,No,0,No
+1318464,44,19,850000,90024,2,Master's and above,0,No,No,Yes,No,0,No
+1318865,32,8,840000,92093,4,Higher Secondary,0,No,No,Yes,No,0,No
+1319266,67,41,1140000,95616,4,Master's and above,0,No,No,Yes,No,0,No
+1319667,40,14,610000,94612,3,Master's and above,0,No,No,Yes,No,0,No
+1320068,57,31,390000,92821,1,Master's and above,0,No,No,Yes,Yes,22000,No
+1320469,59,35,210000,95818,2,Higher Secondary,12000,No,No,Yes,No,0,No
+1320870,43,17,1110000,91423,4,Master's and above,0,No,No,Yes,No,0,Yes
+1321271,58,34,680000,94305,2,Higher Secondary,11300,No,No,No,No,0,No
+1321672,50,23,1790000,94609,4,Bachelor's,0,No,No,Yes,No,0,Yes
+1322073,52,27,930000,90291,4,Bachelor's,0,No,No,No,Yes,41000,Yes
+1322474,35,9,850000,92121,2,Higher Secondary,0,No,No,No,No,0,No
+1322875,40,15,1800000,90095,1,Higher Secondary,0,No,No,No,No,0,No
+1323276,31,5,1100000,92123,2,Master's and above,0,No,No,Yes,No,0,No
+1323677,32,8,650000,95134,1,Higher Secondary,26800,No,No,Yes,No,0,No
+1324078,55,31,1590000,92123,1,Master's and above,0,No,No,No,No,0,Yes
+1324479,43,19,810000,92121,2,Higher Secondary,0,No,No,Yes,No,0,No
+1324880,31,6,1320000,94571,1,Higher Secondary,0,No,No,Yes,No,0,No
+1325281,26,-1,440000,94901,1,Bachelor's,0,No,No,No,No,0,No
+1325682,58,33,980000,90277,1,Higher Secondary,0,No,No,No,No,0,No
+1326083,51,25,620000,95014,2,Bachelor's,0,No,No,Yes,Yes,15000,No
+1326484,45,21,910000,95054,1,Higher Secondary,0,No,No,Yes,No,0,No
+1326885,56,30,290000,92152,4,Bachelor's,8700,No,No,Yes,No,0,No
+1327286,25,-1,1010000,95819,4,Master's and above,0,No,No,No,Yes,21000,No
+1327687,38,13,650000,91706,3,Bachelor's,0,No,No,Yes,No,0,No
+1328088,62,36,580000,95020,1,Bachelor's,0,No,No,No,Yes,28000,No
+1328489,39,13,320000,90747,2,Master's and above,0,No,No,Yes,No,0,No
+1328890,56,30,1400000,94122,4,Higher Secondary,29200,No,No,No,No,0,Yes
+1329291,50,25,440000,94303,1,Higher Secondary,18700,No,No,Yes,Yes,3000,No
+1329692,52,27,1130000,92038,1,Master's and above,0,No,No,No,No,0,No
+1330093,53,28,380000,94998,1,Bachelor's,0,No,No,Yes,No,0,No
+1330494,25,-1,130000,95616,4,Higher Secondary,0,Yes,No,No,No,0,No
+1330895,44,20,620000,94939,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1331296,42,12,290000,93611,3,Master's and above,0,No,No,No,No,0,No
+1331697,42,16,1410000,94960,3,Bachelor's,0,No,No,No,No,0,Yes
+1332098,63,37,1320000,94080,1,Bachelor's,0,No,No,Yes,No,0,Yes
+1332499,57,32,230000,93407,1,Master's and above,0,No,No,Yes,Yes,3000,No
+1332900,56,32,110000,94110,2,Higher Secondary,8900,No,No,No,No,0,No
+1333301,60,34,900000,92192,4,Bachelor's,0,No,No,Yes,No,0,No
+1333702,62,38,430000,92354,1,Bachelor's,0,No,No,Yes,No,0,No
+1334103,48,22,590000,90086,4,Higher Secondary,0,No,No,Yes,Yes,26000,No
+1334504,37,11,280000,94501,2,Master's and above,0,No,No,No,No,0,No
+1334905,55,29,280000,94539,2,Bachelor's,8200,No,No,Yes,Yes,7000,No
+1335306,42,17,1080000,95120,3,Higher Secondary,38300,No,No,Yes,No,0,No
+1335707,39,13,780000,95616,1,Master's and above,0,No,No,No,No,0,No
+1336108,47,22,650000,90840,1,Higher Secondary,0,No,No,Yes,No,0,No
+1336509,34,10,250000,92038,4,Higher Secondary,0,No,No,Yes,No,0,No
+1336910,48,23,1080000,92120,2,Master's and above,0,No,No,No,Yes,38000,No
+1337311,52,27,430000,94611,,Bachelor's,0,No,No,Yes,No,0,No
+1337712,53,29,950000,94720,4,Bachelor's,0,No,No,Yes,Yes,10000,No
+1338113,49,25,240000,95819,1,Higher Secondary,0,No,No,No,No,0,No
+1338514,47,22,1900000,94550,2,Higher Secondary,0,No,No,No,No,0,No
+1338915,48,24,240000,91950,1,Master's and above,0,No,No,No,No,0,No
+1339316,38,13,410000,90073,4,Higher Secondary,0,No,No,Yes,No,0,No
+1339717,48,22,800000,94720,3,Higher Secondary,0,No,No,No,No,0,No
+1340118,56,26,630000,94501,3,Master's and above,0,No,No,Yes,No,0,No
+1340519,65,41,790000,90035,3,Master's and above,0,No,No,No,No,0,No
+1340920,46,20,1050000,90089,4,Higher Secondary,0,No,No,No,No,0,Yes
+1341321,60,35,1530000,95136,3,Master's and above,0,No,No,No,Yes,20000,Yes
+1341722,50,25,1140000,92104,1,Higher Secondary,0,No,No,No,Yes,6000,No
+1342123,41,15,1200000,94521,1,Higher Secondary,0,No,No,Yes,No,0,No
+1342524,41,16,1040000,92008,1,Master's and above,0,No,Yes,Yes,Yes,40000,No
+1342925,60,35,200000,92110,1,Higher Secondary,0,No,No,Yes,No,0,No
+1343326,57,31,410000,91401,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1343727,48,23,350000,93302,2,Higher Secondary,0,No,No,No,No,0,No
+1344128,53,27,1740000,91006,1,Bachelor's,0,No,No,Yes,No,0,Yes
+1344529,42,18,1640000,93407,1,Master's and above,0,Yes,Yes,Yes,Yes,13000,Yes
+1344930,45,20,220000,90230,1,Higher Secondary,0,No,No,No,No,0,No
+1345331,35,10,1320000,94123,1,Higher Secondary,8200,No,No,No,Yes,38000,No
+1345732,34,9,320000,95054,4,Master's and above,0,No,No,Yes,No,0,No
+1346133,67,42,210000,94607,3,Master's and above,0,No,No,No,Yes,1000,No
+1346534,36,9,490000,94402,2,Bachelor's,0,No,No,No,Yes,16700,No
+1346935,37,13,790000,91711,4,Bachelor's,28000,No,No,Yes,No,0,No
+1347336,40,14,300000,94720,2,Master's and above,8600,No,No,No,No,0,No
+1347737,35,10,1180000,92069,2,Higher Secondary,35800,No,No,No,No,0,No
+1348138,60,34,110000,94305,4,Master's and above,0,No,No,Yes,No,0,No
+1348539,59,29,610000,92008,3,Master's and above,0,No,No,Yes,No,0,No
+1348940,35,9,430000,92037,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1349341,27,1,1410000,95135,4,Master's and above,35400,No,No,No,No,0,Yes
+1349742,29,3,540000,94104,4,Master's and above,0,No,No,No,No,0,No
+1350143,35,9,330000,91125,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1350544,38,13,840000,91330,3,Master's and above,12100,No,No,Yes,Yes,12000,No
+1350945,62,37,1250000,94801,1,Master's and above,0,No,No,Yes,No,0,Yes
+1351346,43,19,1100000,90639,1,Higher Secondary,0,No,No,No,Yes,34000,No
+1351747,35,11,140000,94720,4,Higher Secondary,0,No,Yes,Yes,Yes,10000,No
+1352148,41,15,650000,92037,2,Higher Secondary,0,No,No,Yes,Yes,28000,No
+1352549,65,41,780000,92109,3,Master's and above,0,No,Yes,Yes,Yes,20000,No
+1352950,61,35,180000,94303,3,Master's and above,0,No,No,No,No,0,No
+1353351,55,25,950000,92407,2,Master's and above,27500,No,No,No,No,0,No
+1353752,28,3,950000,90245,2,Bachelor's,0,No,No,No,No,0,No
+1354153,52,26,1910000,92121,1,Higher Secondary,0,No,No,Yes,No,0,No
+1354554,34,4,190000,92521,1,Master's and above,8300,No,No,Yes,No,0,No
+1354955,49,23,190000,94521,4,Master's and above,0,No,No,Yes,Yes,6000,No
+1355356,42,18,390000,92703,1,Master's and above,0,No,No,Yes,No,0,No
+1355757,49,23,930000,90036,1,Higher Secondary,0,No,No,Yes,Yes,24000,No
+1356158,49,23,1150000,95051,3,Master's and above,0,No,No,No,No,0,Yes
+1356559,32,6,1120000,94111,1,Bachelor's,40800,Yes,Yes,Yes,Yes,27000,No
+1356960,59,35,400000,94536,4,Higher Secondary,0,No,No,No,No,0,No
+1357361,43,19,450000,91773,3,Bachelor's,0,No,No,No,No,0,No
+1357762,48,24,1330000,90740,1,Higher Secondary,0,No,No,No,No,0,No
+1358163,31,5,850000,94117,3,Higher Secondary,8700,No,No,Yes,Yes,16000,No
+1358564,30,4,180000,90277,2,Bachelor's,0,No,No,Yes,No,0,No
+1358965,58,34,540000,93003,4,Bachelor's,0,No,No,Yes,No,0,No
+1359366,41,15,410000,94143,2,Bachelor's,10500,No,No,No,No,0,No
+1359767,38,8,210000,95060,1,Master's and above,0,No,No,Yes,No,0,No
+1360168,33,9,1520000,90024,1,Higher Secondary,0,No,No,Yes,Yes,60000,No
+1360569,51,27,530000,92122,1,Bachelor's,0,No,No,Yes,No,0,No
+1360970,45,18,1630000,94720,3,Bachelor's,0,No,Yes,No,Yes,53300,Yes
+1361371,34,10,840000,95616,4,Bachelor's,0,No,No,Yes,No,0,No
+1361772,39,13,590000,90033,3,Master's and above,19900,Yes,No,Yes,No,0,No
+1362173,44,18,330000,95351,3,Bachelor's,0,No,No,No,No,0,No
+1362574,55,29,810000,94928,4,Higher Secondary,20900,No,No,Yes,No,0,No
+1362975,28,2,1820000,92660,3,Bachelor's,44200,No,Yes,Yes,Yes,72000,Yes
+1363376,57,31,610000,91360,1,Master's and above,0,No,No,No,No,0,No
+1363777,43,18,880000,90089,4,Bachelor's,0,No,No,Yes,No,0,No
+1364178,46,21,1700000,95136,2,Higher Secondary,0,No,No,No,No,0,No
+1364579,35,10,830000,95370,4,Master's and above,31500,No,No,Yes,No,0,No
+1364980,25,0,440000,94536,4,Bachelor's,0,No,No,No,Yes,6000,No
+1365381,65,41,830000,94305,3,Master's and above,0,No,No,Yes,No,0,No
+1365782,64,38,210000,95422,1,Bachelor's,7600,No,No,No,Yes,8000,No
+1366183,39,15,1430000,91711,1,Higher Secondary,0,No,No,Yes,Yes,35000,No
+1366584,62,36,1030000,92182,2,Higher Secondary,0,Yes,Yes,Yes,No,0,No
+1366985,46,22,1350000,95135,3,Higher Secondary,21300,No,No,Yes,No,0,Yes
+1367386,36,11,1620000,94583,1,Higher Secondary,15300,Yes,No,Yes,No,0,No
+1367787,42,17,730000,90089,4,Higher Secondary,0,Yes,No,No,No,0,No
+1368188,35,10,1420000,94061,4,Master's and above,0,No,No,No,No,0,Yes
+1368589,63,37,250000,94035,2,Master's and above,0,No,No,Yes,No,0,No
+1368990,45,21,1150000,91320,2,Higher Secondary,8500,No,No,Yes,No,0,No
+1369391,27,3,880000,92182,3,Higher Secondary,23800,No,No,No,No,0,No
+1369792,29,3,730000,94720,3,Master's and above,0,No,No,No,No,0,No
+1370193,55,29,940000,94109,1,Master's and above,22100,No,No,No,No,0,No
+1370594,32,7,580000,92612,1,Higher Secondary,0,No,No,Yes,No,0,No
+1370995,37,11,810000,95123,3,Bachelor's,0,No,No,Yes,Yes,9000,No
+1371396,25,-1,1130000,90089,4,Master's and above,0,No,No,Yes,No,0,No
+1371797,41,16,350000,94061,2,Bachelor's,13500,No,No,No,No,0,No
+1372198,52,28,650000,93106,1,Higher Secondary,0,No,No,Yes,Yes,0,No
+1372599,31,6,1700000,94010,2,Higher Secondary,13700,No,No,Yes,No,0,No
+1373000,40,14,620000,92028,2,Bachelor's,225000,No,No,Yes,Yes,24000,No
+1373401,54,29,540000,94720,2,Master's and above,9700,No,No,No,No,0,No
+1373802,48,22,390000,94065,1,Bachelor's,0,No,No,No,No,0,No
+1374203,39,15,280000,95818,1,Master's and above,11800,No,No,Yes,Yes,14000,No
+1374604,64,40,950000,90095,2,Master's and above,0,No,No,Yes,Yes,0,No
+1375005,54,29,820000,94709,3,Bachelor's,0,No,No,Yes,No,0,Yes
+1375406,39,14,210000,94303,1,Master's and above,10100,No,No,No,No,0,No
+1375807,55,30,500000,94061,2,Master's and above,0,No,No,Yes,No,0,No
+1376208,42,12,340000,92177,3,Master's and above,0,No,No,No,Yes,20000,No
+1376609,58,32,190000,90405,4,Master's and above,0,No,No,No,No,0,No
+1377010,45,21,710000,90029,4,Higher Secondary,0,No,No,Yes,No,0,No
+1377411,29,5,1130000,95351,2,Bachelor's,8400,No,No,Yes,Yes,20000,No
+1377812,36,11,90000,90230,4,Master's and above,0,No,No,Yes,No,0,No
+1378213,63,37,1180000,94010,1,Higher Secondary,42700,No,No,No,No,0,No
+1378614,55,29,790000,90029,4,Higher Secondary,0,No,No,No,No,0,No
+1379015,54,24,720000,95123,3,Master's and above,0,No,No,No,Yes,14000,No
+1379416,61,36,180000,95010,1,Higher Secondary,0,No,No,No,No,0,No
+1379817,36,12,930000,90720,2,Higher Secondary,0,No,No,Yes,Yes,22000,No
+1380218,61,37,620000,94111,1,Bachelor's,24400,No,No,Yes,No,0,No
+1380619,39,12,230000,90024,3,Bachelor's,0,No,No,Yes,Yes,10000,No
+1381020,57,31,400000,91775,3,Master's and above,0,No,Yes,Yes,Yes,14000,No
+1381421,35,10,340000,95503,4,Higher Secondary,8700,No,No,Yes,Yes,17000,No
+1381822,66,41,1140000,94305,1,Master's and above,0,No,No,Yes,Yes,8000,No
+1382223,49,23,1250000,90245,1,Higher Secondary,0,No,No,No,Yes,24000,No
+1382624,48,23,410000,92677,1,Master's and above,0,No,No,No,Yes,14000,No
+1383025,61,35,380000,93009,2,Master's and above,0,No,No,No,No,0,No
+1383426,44,19,450000,94539,4,Bachelor's,0,No,No,Yes,Yes,0,No
+1383827,23,-1,120000,91605,4,Higher Secondary,9000,No,No,Yes,No,0,No
+1384228,31,5,1150000,90025,2,Master's and above,18900,No,No,Yes,No,0,No
+1384629,39,15,1750000,94080,2,Higher Secondary,0,No,No,Yes,No,0,No
+1385030,45,21,240000,93106,1,Master's and above,0,No,No,No,No,0,No
+1385431,39,14,280000,91320,2,Bachelor's,10800,No,No,No,Yes,14000,No
+1385832,64,38,320000,90291,2,Higher Secondary,0,No,No,Yes,Yes,3000,No
+1386233,64,38,630000,94305,2,Master's and above,18400,Yes,No,Yes,No,0,No
+1386634,47,23,320000,95370,,Higher Secondary,0,No,No,No,Yes,10000,No
+1387035,34,9,600000,94306,4,Higher Secondary,0,Yes,No,No,No,0,No
+1387436,56,31,530000,95521,2,Master's and above,7800,No,No,No,No,0,No
+1387837,33,8,580000,92037,4,Higher Secondary,0,Yes,No,No,No,0,No
+1388238,56,29,420000,92104,4,Bachelor's,0,No,No,No,No,0,No
+1388639,57,31,390000,94304,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1389040,43,17,720000,94806,1,Higher Secondary,27100,No,No,Yes,No,0,No
+1389441,43,17,800000,95020,,Higher Secondary,0,No,Yes,Yes,Yes,1000,No
+1389842,26,1,390000,95133,4,Bachelor's,0,No,No,No,Yes,6000,No
+1390243,64,40,180000,94309,2,Master's and above,0,Yes,Yes,Yes,Yes,3000,No
+1390644,43,18,300000,93940,1,Master's and above,0,No,No,Yes,No,0,No
+1391045,44,18,540000,90639,1,Higher Secondary,20200,No,No,No,No,0,No
+1391446,60,35,1280000,93101,1,Higher Secondary,0,No,No,Yes,No,0,No
+1391847,37,13,380000,94701,1,Bachelor's,11600,No,No,No,Yes,15000,No
+1392248,56,32,1200000,90232,1,Higher Secondary,18600,No,No,Yes,No,0,No
+1392649,54,29,250000,90747,4,Master's and above,10900,No,No,No,No,0,No
+1393050,43,18,850000,92606,4,Master's and above,11000,No,No,Yes,Yes,19000,No
+1393451,57,32,1350000,90095,3,Bachelor's,0,Yes,Yes,Yes,No,0,Yes
+1393852,29,4,140000,94590,4,Master's and above,0,No,No,No,Yes,5000,No
+1394253,54,30,700000,92182,1,Master's and above,25100,No,No,Yes,Yes,16000,No
+1394654,61,37,230000,94720,3,Bachelor's,0,No,No,No,No,0,No
+1395055,29,3,310000,94709,4,Bachelor's,0,No,No,Yes,No,0,No
+1395456,47,21,1320000,92120,1,Higher Secondary,0,No,No,Yes,No,0,No
+1395857,43,19,280000,93010,3,Higher Secondary,0,No,No,Yes,Yes,5000,No
+1396258,46,22,1250000,94536,2,Master's and above,0,No,No,Yes,No,0,Yes
+1396659,55,31,910000,94110,2,Higher Secondary,0,No,No,Yes,No,0,No
+1397060,48,23,1910000,95053,2,Higher Secondary,23100,No,No,No,Yes,28000,No
+1397461,26,1,880000,94025,2,Bachelor's,0,No,No,No,No,0,No
+1397862,63,37,840000,92691,4,Master's and above,0,No,No,Yes,Yes,24000,No
+1398263,57,27,640000,92007,3,Master's and above,14200,No,No,Yes,No,0,No
+1398664,58,33,280000,94608,2,Bachelor's,14600,Yes,No,Yes,No,0,No
+1399065,28,3,1490000,92121,1,Higher Secondary,0,No,No,Yes,No,0,No
+1399466,61,37,1720000,92612,4,Higher Secondary,0,No,Yes,Yes,Yes,42500,Yes
+1399867,65,41,420000,95616,1,Bachelor's,0,No,No,No,No,0,No
+1400268,33,6,530000,94122,,Bachelor's,9600,No,No,No,Yes,10000,No
+1400669,63,37,1490000,90840,2,Master's and above,36400,No,No,Yes,No,0,Yes
+1401070,43,19,1130000,93933,2,Bachelor's,0,No,No,No,Yes,18000,No
+1401471,26,2,790000,95630,2,Higher Secondary,0,No,No,Yes,No,0,No
+1401872,57,31,1750000,90503,2,Higher Secondary,42900,No,No,Yes,Yes,5000,No
+1402273,50,25,380000,95503,1,Master's and above,0,No,No,Yes,No,0,No
+1402674,54,27,1200000,92672,4,Bachelor's,43100,No,No,Yes,No,0,Yes
+1403075,59,34,520000,92173,4,Higher Secondary,0,Yes,No,No,No,0,No
+1403476,49,24,420000,92121,2,Bachelor's,0,No,No,Yes,No,0,No
+1403877,54,30,130000,92037,1,Higher Secondary,0,No,No,No,No,0,No
+1404278,65,39,1410000,90280,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1404679,34,10,1310000,94024,2,Higher Secondary,15600,No,No,Yes,Yes,43300,No
+1405080,31,6,1330000,95747,1,Master's and above,0,No,No,No,No,0,Yes
+1405481,31,6,640000,94720,2,Higher Secondary,0,No,No,Yes,No,0,No
+1405882,64,39,490000,94591,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1406283,52,26,340000,93023,1,Master's and above,0,No,No,Yes,No,0,No
+1406684,57,33,910000,95133,1,Higher Secondary,8100,Yes,No,No,No,0,No
+1407085,60,36,1950000,90066,1,Higher Secondary,0,No,No,Yes,No,0,No
+1407486,45,18,530000,92104,3,Bachelor's,11200,No,No,No,No,0,No
+1407887,39,13,390000,92103,2,Master's and above,0,No,No,No,No,0,No
+1408288,25,1,200000,92806,4,Higher Secondary,0,No,No,No,Yes,10000,No
+1408689,29,4,1040000,91711,4,Master's and above,0,No,No,No,Yes,18000,No
+1409090,40,15,510000,94117,2,Bachelor's,13100,No,No,Yes,No,0,No
+1409491,36,12,1540000,91320,3,Higher Secondary,0,Yes,No,No,No,0,Yes
+1409892,33,9,380000,95814,1,Higher Secondary,11500,No,No,No,No,0,No
+1410293,51,27,120000,92697,2,Higher Secondary,0,No,No,No,Yes,4000,No
+1410694,35,9,280000,94546,1,Master's and above,0,No,No,No,Yes,6000,No
+1411095,54,28,330000,94710,2,Master's and above,0,No,No,Yes,No,0,No
+1411496,29,2,310000,91330,4,Bachelor's,0,No,No,No,No,0,No
+1411897,32,8,440000,91401,1,Bachelor's,19200,No,No,Yes,No,0,No
+1412298,37,13,490000,91711,4,Master's and above,19200,No,No,No,No,0,No
+1412699,55,31,1340000,92130,2,Higher Secondary,0,No,No,No,No,0,No
+1413100,30,6,1820000,93561,4,Master's and above,9400,No,No,Yes,No,0,Yes
+1413501,49,23,1140000,94550,1,Higher Secondary,28600,No,No,Yes,No,0,No
+1413902,51,26,900000,94110,1,Bachelor's,0,No,No,Yes,Yes,28000,No
+1414303,65,39,1050000,91380,4,Master's and above,0,Yes,No,Yes,No,0,No
+1414704,32,8,580000,95616,3,Higher Secondary,9000,No,No,Yes,No,0,No
+1415105,29,3,530000,95814,4,Master's and above,0,No,No,Yes,No,0,No
+1415506,46,20,150000,95370,4,Master's and above,0,Yes,No,Yes,No,0,No
+1415907,64,39,1030000,90304,1,Master's and above,0,No,No,Yes,Yes,8000,No
+1416308,27,1,580000,95827,4,Bachelor's,15400,No,Yes,Yes,Yes,18000,No
+1416709,50,23,830000,91791,1,Bachelor's,0,No,Yes,Yes,Yes,26700,No
+1417110,33,9,1250000,92182,1,Master's and above,0,No,No,Yes,No,0,Yes
+1417511,38,12,610000,91330,3,Master's and above,0,No,No,No,No,0,No
+1417912,38,11,690000,92124,3,Bachelor's,0,No,No,No,No,0,No
+1418313,37,11,890000,94609,1,Master's and above,0,No,No,Yes,No,0,No
+1418714,46,20,700000,90405,4,Higher Secondary,0,No,No,No,Yes,29000,No
+1419115,31,4,390000,94501,2,Bachelor's,0,No,No,No,No,0,No
+1419516,35,9,410000,90024,4,Bachelor's,0,No,No,Yes,No,0,No
+1419917,50,26,1480000,94143,2,Higher Secondary,50800,No,No,No,No,0,No
+1420318,45,21,380000,93943,3,Bachelor's,14800,No,No,Yes,No,0,No
+1420719,30,6,950000,94234,1,Master's and above,14600,No,No,No,Yes,39000,Yes
+1421120,60,36,1290000,95039,2,Higher Secondary,0,No,No,No,No,0,No
+1421521,31,5,840000,94720,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1421922,60,35,290000,92126,3,Bachelor's,0,No,No,No,No,0,No
+1422323,36,10,300000,91711,2,Master's and above,0,No,No,Yes,No,0,No
+1422724,64,40,900000,94028,2,Master's and above,13400,No,No,No,No,0,No
+1423125,29,4,1500000,91302,1,Higher Secondary,0,No,No,No,Yes,8000,No
+1423526,58,33,150000,94583,4,Bachelor's,0,No,No,No,No,0,No
+1423927,59,34,130000,96651,4,Bachelor's,0,No,No,No,No,0,No
+1424328,58,33,90000,95008,2,Master's and above,0,No,No,Yes,No,0,No
+1424729,35,10,240000,95054,4,Master's and above,0,No,No,No,No,0,No
+1425130,43,17,410000,90210,3,Bachelor's,0,No,No,Yes,No,0,No
+1425531,33,7,250000,94132,4,Higher Secondary,0,No,No,Yes,Yes,10000,No
+1425932,54,28,490000,90073,4,Bachelor's,0,Yes,No,No,No,0,No
+1426333,38,12,580000,94542,3,Master's and above,12800,No,No,No,Yes,9000,No
+1426734,38,12,1410000,94022,2,Higher Secondary,0,No,No,Yes,Yes,0,No
+1427135,57,32,500000,94545,4,Higher Secondary,21100,No,No,No,No,0,No
+1427536,34,10,610000,95006,3,Higher Secondary,0,No,No,No,Yes,20000,No
+1427937,52,27,650000,92104,1,Higher Secondary,0,No,No,Yes,Yes,12000,No
+1428338,50,24,1120000,94005,1,Higher Secondary,22900,No,No,No,No,0,No
+1428739,60,34,190000,92093,3,Master's and above,0,No,No,Yes,No,0,No
+1429140,26,0,230000,93561,1,Bachelor's,0,No,No,No,No,0,No
+1429541,56,30,600000,91380,1,Master's and above,0,No,No,No,No,0,No
+1429942,39,15,300000,94305,4,Higher Secondary,0,Yes,No,No,Yes,3000,No
+1430343,45,20,1440000,92106,4,Higher Secondary,21000,No,No,Yes,No,0,Yes
+1430744,30,5,1180000,92182,4,Master's and above,0,No,No,Yes,No,0,Yes
+1431145,37,11,1940000,94303,2,Higher Secondary,0,No,No,No,No,0,No
+1431546,45,19,1090000,92037,3,Higher Secondary,0,No,No,No,No,0,No
+1431947,48,22,1740000,95827,1,Higher Secondary,0,No,No,Yes,No,0,No
+1432348,65,40,340000,94720,1,Master's and above,11900,No,No,Yes,Yes,11000,No
+1432749,46,20,840000,92354,3,Bachelor's,0,No,No,Yes,No,0,No
+1433150,40,16,410000,91107,1,Bachelor's,0,No,No,No,Yes,20000,No
+1433551,33,7,920000,90840,3,Higher Secondary,0,No,No,No,No,0,No
+1433952,40,10,190000,94609,1,Master's and above,11600,No,No,No,No,0,No
+1434353,60,35,550000,92807,3,Bachelor's,17200,No,No,No,No,0,No
+1434754,51,27,220000,93106,4,Bachelor's,0,No,No,Yes,Yes,5000,No
+1435155,41,16,1550000,95070,1,Higher Secondary,0,No,No,No,No,0,No
+1435556,37,13,720000,92407,4,Master's and above,0,Yes,No,No,No,0,No
+1435957,35,9,810000,91107,1,Bachelor's,0,No,No,Yes,No,0,No
+1436358,35,11,300000,94303,1,Higher Secondary,0,Yes,No,No,Yes,17000,No
+1436759,46,20,540000,90755,4,Higher Secondary,18900,No,No,Yes,Yes,29000,No
+1437160,60,34,600000,94065,3,Higher Secondary,0,No,No,Yes,No,0,No
+1437561,51,25,680000,94065,1,Bachelor's,0,No,No,No,No,0,No
+1437962,31,5,650000,94591,4,Bachelor's,12600,No,No,Yes,No,0,No
+1438363,30,6,310000,94720,3,Bachelor's,14200,No,No,No,No,0,No
+1438764,32,8,1690000,94596,1,Master's and above,27200,Yes,Yes,Yes,No,0,Yes
+1439165,53,27,1390000,94998,1,Master's and above,0,No,No,No,No,0,Yes
+1439566,33,7,290000,94720,1,Master's and above,0,No,No,No,No,0,No
+1439967,40,15,430000,92120,2,Bachelor's,0,No,No,No,Yes,11000,No
+1440368,57,33,800000,92064,2,Higher Secondary,0,No,No,Yes,Yes,28000,No
+1440769,51,26,430000,91040,1,Bachelor's,12300,No,No,Yes,No,0,No
+1441170,30,4,1940000,93407,2,Higher Secondary,0,No,No,No,Yes,45000,No
+1441571,41,15,240000,92130,2,Master's and above,0,Yes,No,Yes,No,0,No
+1441972,54,29,320000,91107,2,Master's and above,0,No,No,Yes,Yes,6000,No
+1442373,42,18,1530000,93955,3,Higher Secondary,41600,No,No,No,No,0,Yes
+1442774,30,6,300000,90245,1,Master's and above,0,No,No,Yes,Yes,4000,No
+1443175,60,36,1650000,90095,3,Higher Secondary,0,No,No,No,Yes,56000,Yes
+1443576,56,30,640000,95123,3,Bachelor's,0,No,No,No,Yes,3000,No
+1443977,63,38,150000,94305,4,Bachelor's,8300,No,No,No,No,0,No
+1444378,56,30,700000,90245,3,Bachelor's,0,No,No,No,No,0,No
+1444779,39,9,320000,91016,3,Master's and above,0,No,No,Yes,No,0,No
+1445180,29,5,1280000,91302,2,Bachelor's,20900,No,No,Yes,No,0,Yes
+1445581,28,2,840000,94305,1,Master's and above,10200,Yes,Yes,No,Yes,29000,No
+1445982,41,16,620000,94553,2,Master's and above,0,No,No,Yes,Yes,22000,No
+1446383,28,4,330000,91330,3,Bachelor's,0,No,No,No,Yes,10000,No
+1446784,49,25,650000,92354,1,Higher Secondary,0,No,No,Yes,No,0,No
+1447185,30,3,330000,95112,4,Bachelor's,8500,No,No,No,No,0,No
+1447586,63,37,150000,92121,1,Bachelor's,11500,No,No,Yes,No,0,No
+1447987,45,18,450000,92037,3,Bachelor's,0,No,No,Yes,No,0,No
+1448388,40,15,1320000,94131,2,Higher Secondary,0,No,No,Yes,No,0,No
+1448789,28,4,290000,94080,3,Bachelor's,0,No,No,Yes,No,0,No
+1449190,62,38,650000,91768,1,Bachelor's,0,No,No,Yes,No,0,No
+1449591,38,12,520000,92807,2,Bachelor's,14700,No,No,No,No,0,No
+1449992,32,7,640000,92630,2,Higher Secondary,0,No,No,Yes,Yes,1000,No
+1450393,58,32,730000,94109,2,Master's and above,22400,No,No,Yes,Yes,23000,No
+1450794,33,3,200000,94704,1,Master's and above,0,No,No,No,No,0,No
+1451195,60,34,440000,90018,2,Higher Secondary,19200,No,No,Yes,No,0,No
+1451596,34,8,790000,95616,1,Higher Secondary,0,No,No,Yes,No,0,No
+1451997,38,14,1040000,90025,2,Bachelor's,7900,No,No,No,No,0,No
+1452398,44,20,880000,94720,,Higher Secondary,0,No,No,No,No,0,No
+1452799,56,26,510000,92028,3,Master's and above,0,No,No,Yes,No,0,No
+1453200,37,11,610000,95120,3,Bachelor's,0,No,No,No,No,0,No
+1453601,45,19,230000,93101,2,Master's and above,9100,No,Yes,Yes,Yes,1000,No
+1454002,44,20,380000,90018,2,Master's and above,9500,No,No,Yes,No,0,No
+1454403,37,13,750000,94305,3,Bachelor's,0,Yes,No,No,No,0,No
+1454804,47,21,420000,95841,4,Higher Secondary,0,No,No,Yes,Yes,1000,No
+1455205,51,25,450000,92407,4,Higher Secondary,0,No,No,Yes,Yes,1000,No
+1455606,63,38,590000,92612,3,Bachelor's,0,No,No,Yes,No,0,No
+1456007,61,31,1300000,92333,2,Master's and above,0,No,No,No,No,0,Yes
+1456408,43,18,90000,96145,2,Master's and above,9600,No,No,Yes,Yes,0,No
+1456809,41,15,620000,90401,3,Master's and above,0,No,No,No,No,0,No
+1457210,59,35,2020000,94025,1,Higher Secondary,55300,No,No,No,No,0,No
+1457611,29,5,1620000,94022,1,Higher Secondary,0,No,No,No,Yes,43000,No
+1458012,32,6,930000,90029,3,Higher Secondary,7900,No,No,Yes,No,0,No
+1458413,64,39,1450000,92705,1,Higher Secondary,0,No,No,No,No,0,No
+1458814,50,25,990000,90245,1,Higher Secondary,36800,Yes,Yes,No,Yes,46000,Yes
+1459215,35,11,1480000,92672,1,Master's and above,0,No,No,Yes,No,0,Yes
+1459616,34,10,1540000,94583,3,Bachelor's,0,No,No,Yes,No,0,Yes
+1460017,58,34,1490000,95616,2,Higher Secondary,0,No,No,Yes,Yes,60000,No
+1460418,41,15,690000,92507,1,Master's and above,7800,No,No,Yes,No,0,No
+1460819,37,11,300000,94304,2,Higher Secondary,14600,No,No,No,No,0,No
+1461220,35,8,480000,92697,2,Bachelor's,0,No,No,Yes,No,0,No
+1461621,45,20,420000,94703,1,Master's and above,0,No,No,Yes,No,0,No
+1462022,53,29,1320000,95020,2,Higher Secondary,40300,No,No,No,No,0,No
+1462423,53,27,810000,91730,3,Bachelor's,19300,No,No,Yes,No,0,No
+1462824,54,29,600000,94901,4,Bachelor's,0,No,No,Yes,Yes,38000,No
+1463225,28,3,450000,91105,4,Bachelor's,9500,No,No,No,No,0,No
+1463626,58,28,700000,92028,1,Master's and above,0,No,No,No,No,0,No
+1464027,47,21,710000,92037,4,Higher Secondary,0,No,No,Yes,No,0,No
+1464428,24,-3,280000,90089,4,Master's and above,0,No,No,No,No,0,No
+1464829,27,1,830000,90034,2,Higher Secondary,0,No,No,No,Yes,2000,No
+1465230,42,18,1310000,94949,1,Higher Secondary,0,No,No,No,Yes,34000,No
+1465631,50,26,820000,95051,1,Higher Secondary,0,No,No,Yes,Yes,0,No
+1466032,41,16,790000,95020,1,Master's and above,22500,No,No,Yes,No,0,No
+1466433,46,21,510000,90089,4,Master's and above,0,No,No,No,No,0,No
+1466834,46,20,1110000,95307,2,Higher Secondary,0,No,No,No,Yes,63000,No
+1467235,51,25,930000,90048,1,Higher Secondary,0,No,No,Yes,No,0,No
+1467636,59,35,730000,90009,4,Master's and above,0,No,No,No,No,0,No
+1468037,58,33,240000,95616,2,Bachelor's,0,No,No,Yes,No,0,No
+1468438,37,11,640000,96094,3,Bachelor's,0,No,No,Yes,No,0,No
+1468839,39,14,1040000,94608,3,Higher Secondary,24200,No,No,Yes,No,0,No
+1469240,47,22,380000,92866,4,Master's and above,0,No,No,Yes,No,0,No
+1469641,51,26,1910000,94063,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1470042,64,34,530000,95821,4,Master's and above,0,No,No,No,Yes,16700,No
+1470443,59,35,740000,94402,4,Master's and above,0,No,No,No,No,0,No
+1470844,55,29,210000,92704,4,Master's and above,0,Yes,No,Yes,No,0,No
+1471245,57,32,800000,92606,3,Master's and above,14400,No,No,Yes,Yes,16000,No
+1471646,59,33,410000,91711,4,Higher Secondary,17400,No,No,No,No,0,No
+1472047,42,17,790000,92103,1,Master's and above,0,Yes,No,No,Yes,37000,No
+1472448,34,9,1410000,92056,3,Bachelor's,26000,No,No,Yes,No,0,Yes
+1472849,41,14,320000,91605,3,Bachelor's,0,No,No,No,Yes,10000,No
+1473250,43,13,380000,95616,3,Master's and above,0,No,No,Yes,No,0,No
+1473651,53,29,850000,92691,3,Bachelor's,0,No,No,Yes,No,0,No
+1474052,47,21,930000,91604,2,Master's and above,10700,No,No,No,No,0,No
+1474453,49,23,1400000,90504,1,Master's and above,0,No,No,No,Yes,19000,Yes
+1474854,35,9,690000,94704,4,Bachelor's,0,No,No,No,Yes,22000,No
+1475255,52,27,320000,92521,2,Bachelor's,0,No,No,No,Yes,20000,No
+1475656,53,28,610000,94061,4,Higher Secondary,17700,No,No,No,No,0,No
+1476057,48,22,1250000,90086,1,Higher Secondary,0,No,No,Yes,No,0,No
+1476458,35,8,300000,95014,4,Bachelor's,0,Yes,No,No,No,0,No
+1476859,52,26,1040000,94025,2,Bachelor's,0,No,No,Yes,Yes,24000,No
+1477260,60,35,240000,92612,1,Higher Secondary,0,No,No,No,No,0,No
+1477661,33,7,220000,94002,1,Bachelor's,0,No,No,No,No,0,No
+1478062,38,12,590000,93401,2,Bachelor's,0,No,No,No,No,0,No
+1478463,29,4,1200000,94553,1,Bachelor's,0,Yes,Yes,No,Yes,41000,Yes
+1478864,35,9,1640000,94305,2,Higher Secondary,50000,No,No,No,No,0,No
+1479265,26,2,600000,94111,4,Higher Secondary,0,No,Yes,Yes,Yes,16000,No
+1479666,48,24,430000,91791,3,Bachelor's,0,No,No,Yes,No,0,No
+1480067,43,19,700000,91711,3,Higher Secondary,0,Yes,No,No,No,0,No
+1480468,60,35,510000,94143,2,Higher Secondary,0,No,No,Yes,No,0,No
+1480869,27,3,590000,94590,4,Higher Secondary,0,No,No,Yes,No,0,No
+1481270,38,13,1290000,92037,4,Master's and above,7500,No,No,Yes,No,0,Yes
+1481671,40,15,220000,95616,2,Bachelor's,0,No,No,Yes,Yes,14000,No
+1482072,38,14,290000,94402,4,Bachelor's,0,No,No,Yes,No,0,No
+1482473,50,25,180000,93106,1,Master's and above,0,No,No,Yes,No,0,No
+1482874,38,13,650000,91320,3,Master's and above,0,No,No,Yes,No,0,No
+1483275,34,9,650000,95134,4,Higher Secondary,0,No,No,No,Yes,13000,No
+1483676,42,16,380000,93437,1,Higher Secondary,0,Yes,No,No,No,0,No
+1484077,60,34,1100000,92126,2,Higher Secondary,0,No,No,Yes,No,0,No
+1484478,62,37,220000,95818,1,Bachelor's,11100,No,No,Yes,No,0,No
+1484879,59,33,430000,94234,2,Higher Secondary,0,No,No,No,Yes,3000,No
+1485280,49,25,300000,92093,4,Higher Secondary,0,No,No,No,No,0,No
+1485681,49,23,1340000,90095,2,Higher Secondary,0,No,No,Yes,No,0,No
+1486082,36,11,320000,90064,3,Higher Secondary,0,No,No,No,No,0,No
+1486483,33,9,1390000,95054,1,Higher Secondary,0,No,No,No,No,0,No
+1486884,43,17,450000,95051,2,Higher Secondary,0,No,No,No,No,0,No
+1487285,53,27,620000,95070,3,Bachelor's,0,Yes,No,No,No,0,No
+1487686,57,31,510000,92093,4,Bachelor's,10300,No,No,Yes,No,0,No
+1488087,53,27,930000,94588,1,Master's and above,31300,No,No,No,No,0,No
+1488488,60,35,1220000,92521,1,Higher Secondary,0,No,No,No,No,0,No
+1488889,34,10,450000,93943,1,Higher Secondary,0,No,No,No,No,0,No
+1489290,51,26,1790000,90245,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1489691,36,12,640000,94708,3,Higher Secondary,20500,No,No,No,Yes,28000,No
+1490092,63,39,410000,95449,2,Higher Secondary,0,No,No,No,No,0,No
+1490493,37,13,580000,95211,2,Master's and above,0,No,No,No,Yes,6000,No
+1490894,57,33,640000,94132,4,Higher Secondary,0,No,No,Yes,No,0,No
+1491295,52,27,280000,93117,3,Bachelor's,0,No,No,No,No,0,No
+1491696,38,8,210000,92037,1,Master's and above,0,No,No,Yes,No,0,No
+1492097,61,35,600000,90272,1,Bachelor's,0,No,No,Yes,No,0,No
+1492498,31,5,780000,94309,2,Higher Secondary,0,No,No,No,Yes,2000,No
+1492899,39,13,590000,95616,3,Master's and above,0,No,No,No,No,0,No
+1493300,38,12,590000,96001,3,Master's and above,0,Yes,Yes,Yes,Yes,5000,No
+1493701,46,22,830000,94501,4,Bachelor's,0,No,No,Yes,Yes,14000,No
+1494102,48,22,1280000,94608,1,Higher Secondary,0,Yes,No,No,No,0,No
+1494503,58,33,950000,90503,1,Higher Secondary,0,No,No,Yes,No,0,No
+1494904,50,25,1600000,93108,4,Master's and above,41000,No,No,No,No,0,Yes
+1495305,67,41,780000,94301,4,Master's and above,0,Yes,No,No,No,0,No
+1495706,36,11,1840000,91304,2,Bachelor's,0,No,No,No,No,0,Yes
+1496107,30,4,300000,91770,3,Higher Secondary,0,No,No,Yes,No,0,No
+1496508,58,33,510000,94305,2,Master's and above,12300,No,No,Yes,No,0,No
+1496909,43,18,350000,92647,1,Master's and above,0,No,No,No,No,0,No
+1497310,31,1,740000,92116,4,Master's and above,0,No,No,No,No,0,No
+1497711,37,11,430000,92521,4,Bachelor's,0,Yes,No,No,No,0,No
+1498112,49,22,230000,90032,2,Bachelor's,0,No,No,Yes,Yes,10000,No
+1498513,27,1,200000,94720,4,Higher Secondary,9900,No,No,Yes,No,0,No
+1498914,50,25,1120000,92154,1,Higher Secondary,0,No,No,No,No,0,No
+1499315,46,20,740000,90064,3,Bachelor's,0,No,No,Yes,Yes,7000,No
+1499716,49,23,650000,94720,2,Master's and above,23200,No,No,No,Yes,4000,No
+1500117,29,5,1240000,92037,2,Higher Secondary,0,No,No,No,Yes,2000,No
+1500518,55,29,650000,91773,3,Higher Secondary,0,No,No,No,No,0,No
+1500919,61,37,730000,94550,3,Master's and above,28500,No,No,No,No,0,No
+1501320,45,19,80000,92833,2,Master's and above,0,No,No,No,Yes,1000,No
+1501721,33,8,530000,92126,3,Higher Secondary,7600,No,No,Yes,No,0,No
+1502122,63,39,1310000,92521,3,Master's and above,22900,No,No,Yes,No,0,Yes
+1502523,32,6,130000,91040,4,Higher Secondary,0,Yes,Yes,Yes,Yes,3000,No
+1502924,42,17,600000,93118,1,Higher Secondary,9800,No,No,Yes,No,0,No
+1503325,51,27,450000,94022,1,Bachelor's,8200,No,No,Yes,No,0,No
+1503726,44,20,390000,93108,2,Master's and above,11900,No,No,No,No,0,No
+1504127,33,6,780000,94305,4,Bachelor's,0,No,No,No,No,0,No
+1504528,39,13,430000,94304,3,Master's and above,0,No,No,Yes,No,0,No
+1504929,56,30,310000,94117,2,Higher Secondary,10900,Yes,Yes,Yes,Yes,3000,No
+1505330,28,3,1180000,91902,3,Bachelor's,16100,No,No,No,No,0,Yes
+1505731,43,17,820000,94040,3,Higher Secondary,0,No,No,Yes,No,0,No
+1506132,30,6,1120000,92093,3,Higher Secondary,0,No,No,Yes,No,0,No
+1506533,34,8,100000,92867,1,Bachelor's,0,No,No,Yes,No,0,No
+1506934,26,1,180000,92521,2,Master's and above,9500,No,No,No,No,0,No
+1507335,58,32,720000,94105,,Bachelor's,0,No,No,Yes,No,0,No
+1507736,43,19,720000,95193,4,Master's and above,0,No,No,Yes,No,0,No
+1508137,40,14,780000,91103,1,Higher Secondary,0,No,No,Yes,No,0,No
+1508538,54,30,780000,96001,3,Bachelor's,0,No,No,No,No,0,No
+1508939,44,19,300000,91423,1,Master's and above,0,No,No,Yes,No,0,No
+1509340,54,28,450000,95008,3,Higher Secondary,0,No,No,No,Yes,14000,No
+1509741,39,14,800000,90502,2,Higher Secondary,0,No,No,No,No,0,No
+1510142,59,35,1740000,92660,1,Higher Secondary,0,No,No,Yes,Yes,47000,No
+1510543,53,29,510000,92152,2,Master's and above,0,No,No,Yes,No,0,No
+1510944,32,8,1810000,94596,1,Higher Secondary,0,No,Yes,Yes,Yes,60000,No
+1511345,40,14,780000,94720,4,Bachelor's,19400,No,No,Yes,Yes,14000,No
+1511746,54,29,790000,90025,3,Master's and above,0,No,No,No,No,0,No
+1512147,27,3,1190000,90640,1,Higher Secondary,11800,No,No,Yes,No,0,No
+1512548,63,39,490000,93943,4,Bachelor's,10900,Yes,Yes,Yes,Yes,12000,No
+1512949,26,0,830000,91360,3,Bachelor's,0,No,No,Yes,No,0,Yes
+1513350,33,7,1000000,94025,1,Bachelor's,12600,No,No,Yes,No,0,No
+1513751,43,19,700000,90095,3,Higher Secondary,0,No,No,Yes,No,0,No
+1514152,57,32,520000,90266,3,Bachelor's,0,No,No,Yes,No,0,No
+1514553,26,2,120000,94591,4,Higher Secondary,0,No,No,Yes,No,0,No
+1514954,55,30,820000,93003,4,Master's and above,21900,No,No,No,Yes,13000,No
+1515355,30,4,340000,95351,2,Bachelor's,0,No,No,Yes,Yes,3000,No
+1515756,63,37,1120000,93106,4,Master's and above,0,No,No,Yes,Yes,24000,No
+1516157,55,25,420000,94115,3,Master's and above,0,No,No,Yes,No,0,No
+1516558,35,11,830000,92122,2,Higher Secondary,0,No,No,No,No,0,No
+1516959,45,21,1420000,91101,1,Bachelor's,0,No,No,Yes,No,0,Yes
+1517360,47,23,1990000,94720,2,Higher Secondary,0,No,No,Yes,No,0,No
+1517761,31,4,290000,92093,4,Bachelor's,12100,No,No,Yes,Yes,15000,No
+1518162,56,26,700000,91107,3,Master's and above,27300,No,No,Yes,Yes,14000,No
+1518563,49,24,250000,95831,2,Master's and above,0,No,No,Yes,No,0,No
+1518964,53,27,840000,95616,2,Higher Secondary,0,No,No,Yes,No,0,No
+1519365,62,36,810000,95051,3,Higher Secondary,0,No,No,No,Yes,44000,No
+1519766,63,37,150000,94720,2,Higher Secondary,0,No,No,No,No,0,No
+1520167,26,0,540000,94706,3,Master's and above,0,No,No,Yes,No,0,No
+1520568,59,35,1080000,90245,4,Bachelor's,30400,No,No,Yes,No,0,Yes
+1520969,40,16,830000,95819,4,Higher Secondary,0,No,No,Yes,Yes,26700,No
+1521370,42,16,620000,94309,1,Master's and above,17000,No,Yes,Yes,Yes,7000,No
+1521771,29,4,1340000,90095,2,Higher Secondary,20400,No,No,No,No,0,No
+1522172,40,16,750000,94306,3,Higher Secondary,7900,No,No,No,No,0,No
+1522573,31,7,1090000,91711,2,Bachelor's,34100,No,No,No,Yes,20000,No
+1522974,35,10,1520000,94112,2,Higher Secondary,0,No,No,Yes,No,0,No
+1523375,62,36,830000,93940,4,Master's and above,0,Yes,No,No,No,0,No
+1523776,51,26,520000,92521,,Master's and above,0,No,No,Yes,No,0,No
+1524177,32,6,310000,90275,2,Master's and above,0,No,No,Yes,Yes,20000,No
+1524578,27,3,1350000,93108,3,Master's and above,44900,No,No,No,Yes,27000,Yes
+1524979,62,37,980000,94706,1,Higher Secondary,15100,No,No,Yes,No,0,No
+1525380,66,41,140000,95814,4,Bachelor's,0,No,No,No,No,0,No
+1525781,53,27,640000,93407,4,Higher Secondary,0,No,No,Yes,Yes,26000,No
+1526182,49,25,1090000,92780,2,Higher Secondary,0,No,No,No,No,0,No
+1526583,65,40,1180000,94104,1,Higher Secondary,33300,No,Yes,Yes,Yes,13000,No
+1526984,30,5,800000,91311,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1527385,60,34,510000,90028,3,Master's and above,0,No,No,No,No,0,No
+1527786,30,6,1150000,94611,4,Bachelor's,0,No,No,Yes,No,0,Yes
+1528187,54,28,830000,95841,1,Higher Secondary,0,No,No,Yes,No,0,No
+1528588,54,28,900000,91301,1,Higher Secondary,0,No,No,Yes,No,0,No
+1528989,37,12,280000,95616,4,Higher Secondary,0,Yes,Yes,Yes,No,0,No
+1529390,32,7,820000,95616,2,Higher Secondary,22100,No,No,Yes,Yes,25000,No
+1529791,51,27,240000,94301,3,Higher Secondary,0,No,No,Yes,Yes,4000,No
+1530192,46,22,710000,92029,2,Higher Secondary,0,No,No,Yes,Yes,17000,No
+1530593,41,17,800000,91330,1,Higher Secondary,0,No,No,No,No,0,No
+1530994,62,36,1090000,92709,4,Master's and above,0,No,No,Yes,No,0,No
+1531395,54,28,1400000,91711,1,Higher Secondary,0,No,No,Yes,No,0,No
+1531796,52,27,390000,92612,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1532197,51,25,390000,94010,1,Bachelor's,9800,No,No,Yes,No,0,No
+1532598,24,-2,500000,94920,3,Bachelor's,0,Yes,No,No,No,0,No
+1532999,61,35,310000,92521,2,Higher Secondary,0,No,No,Yes,No,0,No
+1533400,55,25,350000,93943,3,Master's and above,14400,No,No,Yes,Yes,10000,No
+1533801,37,11,440000,93109,4,Higher Secondary,0,No,No,No,Yes,2000,No
+1534202,64,38,350000,93955,1,Master's and above,0,No,No,Yes,No,0,No
+1534603,34,8,200000,95616,2,Higher Secondary,10600,No,No,Yes,Yes,3000,No
+1535004,31,7,100000,95616,4,Bachelor's,0,No,No,Yes,No,0,No
+1535405,42,18,830000,96001,4,Master's and above,0,No,No,Yes,No,0,No
+1535806,47,22,2030000,95842,2,Higher Secondary,0,No,No,Yes,No,0,No
+1536207,29,5,840000,93109,3,Higher Secondary,0,No,No,No,No,0,No
+1536608,34,8,410000,92096,4,Higher Secondary,0,No,No,No,No,0,No
+1537009,36,11,1640000,95051,2,Higher Secondary,0,No,No,Yes,Yes,78000,No
+1537410,34,10,1520000,90089,2,Higher Secondary,0,No,No,No,No,0,No
+1537811,26,2,620000,94080,4,Higher Secondary,0,Yes,No,No,No,0,No
+1538212,48,24,120000,94707,4,Higher Secondary,8900,No,No,No,No,0,No
+1538613,47,23,280000,94061,4,Higher Secondary,0,No,No,Yes,No,0,No
+1539014,39,13,520000,94720,1,Higher Secondary,0,No,No,No,Yes,20000,No
+1539415,62,37,190000,91343,3,Bachelor's,9700,No,No,Yes,No,0,No
+1539816,34,9,350000,94304,3,Higher Secondary,0,No,No,No,No,0,No
+1540217,43,19,280000,95053,4,Higher Secondary,9600,No,No,Yes,No,0,No
+1540618,55,30,700000,94904,3,Bachelor's,0,No,No,Yes,Yes,20000,No
+1541019,65,40,1400000,92093,1,Higher Secondary,0,No,No,No,No,0,No
+1541420,26,0,1020000,94305,4,Master's and above,0,No,No,No,No,0,No
+1541821,57,27,500000,93950,4,Master's and above,0,No,No,Yes,No,0,No
+1542222,32,7,610000,94102,3,Higher Secondary,20500,No,No,Yes,Yes,23000,No
+1542623,35,9,1880000,92220,2,Bachelor's,25900,No,No,Yes,No,0,Yes
+1543024,63,33,1780000,91768,4,Master's and above,0,No,No,No,No,0,Yes
+1543425,49,25,440000,94708,4,Bachelor's,19400,No,No,Yes,No,0,No
+1543826,23,-1,120000,95064,4,Higher Secondary,0,Yes,No,No,Yes,10000,No
+1544227,30,6,690000,94305,4,Higher Secondary,18800,No,No,No,Yes,34000,No
+1544628,43,19,1320000,90089,,Higher Secondary,0,No,No,No,No,0,No
+1545029,39,14,1280000,93943,2,Higher Secondary,19600,No,No,Yes,No,0,No
+1545430,31,6,440000,95616,4,Higher Secondary,12200,No,No,Yes,No,0,No
+1545831,65,39,440000,92038,1,Master's and above,0,No,No,Yes,Yes,5000,No
+1546232,34,8,340000,92130,2,Master's and above,0,Yes,No,Yes,No,0,No
+1546633,37,12,1320000,90089,2,Higher Secondary,0,No,No,No,No,0,No
+1547034,62,38,1580000,90230,2,Higher Secondary,0,No,No,No,Yes,21000,No
+1547435,33,9,830000,93943,1,Higher Secondary,0,No,No,Yes,No,0,No
+1547836,48,22,280000,94720,1,Master's and above,7500,No,No,Yes,No,0,No
+1548237,33,9,1310000,90065,3,Master's and above,0,Yes,No,No,No,0,Yes
+1548638,45,19,310000,95616,3,Bachelor's,0,No,No,Yes,Yes,5000,No
+1549039,44,19,400000,92350,4,Bachelor's,0,No,No,Yes,No,0,No
+1549440,37,11,710000,94501,2,Higher Secondary,12700,Yes,No,No,No,0,No
+1549841,31,5,420000,93010,2,Master's and above,0,No,No,Yes,No,0,No
+1550242,56,31,350000,95211,3,Bachelor's,11400,No,No,No,No,0,No
+1550643,30,4,810000,94305,2,Higher Secondary,0,No,No,Yes,No,0,No
+1551044,61,35,910000,95136,2,Higher Secondary,0,No,No,Yes,No,0,No
+1551445,32,7,1290000,94720,4,Bachelor's,0,No,No,No,Yes,52000,Yes
+1551846,51,27,750000,95828,1,Higher Secondary,0,No,No,No,No,0,No
+1552247,26,1,540000,94061,4,Bachelor's,23000,No,No,No,No,0,No
+1552648,31,5,430000,94720,1,Higher Secondary,0,No,No,No,No,0,No
+1553049,43,18,940000,94110,4,Bachelor's,0,No,No,No,No,0,No
+1553450,57,32,840000,93106,4,Master's and above,0,No,No,No,Yes,13000,No
+1553851,42,18,340000,92653,1,Bachelor's,0,Yes,No,No,No,0,No
+1554252,48,23,150000,94061,4,Higher Secondary,0,No,No,Yes,No,0,No
+1554653,46,21,990000,90277,2,Master's and above,19400,No,No,Yes,No,0,No
+1555054,33,7,150000,92152,1,Bachelor's,8200,Yes,Yes,Yes,Yes,4000,No
+1555455,45,21,830000,94105,4,Master's and above,0,No,No,Yes,No,0,No
+1555856,31,6,830000,94720,4,Master's and above,0,No,No,Yes,No,0,No
+1556257,42,18,1430000,95630,1,Higher Secondary,0,Yes,No,Yes,No,0,No
+1556658,56,30,810000,90401,4,Master's and above,0,No,No,Yes,No,0,No
+1557059,63,39,390000,91711,1,Bachelor's,0,No,No,No,No,0,No
+1557460,42,18,1580000,92124,2,Bachelor's,27700,No,No,No,Yes,4000,Yes
+1557861,50,24,620000,90245,1,Master's and above,0,No,No,No,No,0,No
+1558262,31,6,640000,92121,2,Higher Secondary,0,No,No,Yes,Yes,1000,No
+1558663,65,40,290000,90025,1,Bachelor's,0,No,No,No,No,0,No
+1559064,60,34,640000,94104,3,Higher Secondary,0,No,No,Yes,No,0,No
+1559465,34,10,210000,91770,4,Bachelor's,0,No,No,Yes,No,0,No
+1559866,62,32,1420000,95112,2,Master's and above,0,No,No,No,Yes,28000,Yes
+1560267,56,30,640000,93105,3,Higher Secondary,0,No,No,No,No,0,No
+1560668,51,25,400000,91401,4,Higher Secondary,0,Yes,No,No,Yes,18000,No
+1561069,44,19,610000,94080,3,Bachelor's,0,No,No,No,No,0,No
+1561470,41,16,440000,92037,1,Master's and above,0,No,No,No,No,0,No
+1561871,43,16,780000,95670,3,Bachelor's,16100,No,No,Yes,Yes,26700,No
+1562272,25,0,250000,94596,2,Master's and above,0,No,No,No,No,0,No
+1562673,40,16,1250000,91304,2,Higher Secondary,0,No,No,No,Yes,19000,No
+1563074,53,29,630000,94720,2,Master's and above,0,No,No,Yes,No,0,No
+1563475,54,30,540000,94550,1,Master's and above,18500,No,No,Yes,No,0,No
+1563876,36,12,920000,94709,2,Higher Secondary,18400,No,No,No,No,0,No
+1564277,26,2,1190000,95351,2,Higher Secondary,38100,No,No,Yes,Yes,6000,No
+1564678,35,11,400000,91784,1,Bachelor's,0,No,No,Yes,No,0,No
+1565079,29,4,410000,93105,1,Higher Secondary,0,No,No,No,No,0,No
+1565480,35,11,810000,92064,2,Higher Secondary,0,No,No,Yes,Yes,0,No
+1565881,28,4,1010000,95136,3,Higher Secondary,27000,No,No,No,No,0,No
+1566282,48,24,250000,90024,4,Bachelor's,0,No,No,No,No,0,No
+1566683,46,20,550000,91016,1,Bachelor's,0,Yes,No,No,No,0,No
+1567084,31,7,430000,92646,1,Master's and above,16600,No,No,No,Yes,21000,No
+1567485,40,16,980000,94534,2,Bachelor's,9800,No,No,Yes,No,0,No
+1567886,27,1,1120000,91330,4,Master's and above,40200,No,No,Yes,Yes,23000,No
+1568287,32,2,690000,93943,4,Master's and above,10200,No,No,Yes,No,0,No
+1568688,67,43,790000,95616,4,Bachelor's,21500,No,Yes,Yes,Yes,17000,No
+1569089,24,-2,1180000,92634,2,Higher Secondary,0,Yes,No,Yes,No,0,No
+1569490,45,18,810000,95133,3,Bachelor's,25100,No,No,Yes,Yes,26700,No
+1569891,26,0,190000,93014,1,Bachelor's,12100,No,No,Yes,No,0,No
+1570292,42,17,1390000,91101,2,Master's and above,0,No,No,Yes,No,0,Yes
+1570693,65,40,630000,94701,3,Bachelor's,0,No,No,Yes,No,0,No
+1571094,59,33,1020000,91763,2,Higher Secondary,0,No,No,Yes,No,0,No
+1571495,30,5,400000,92521,4,Bachelor's,0,No,No,Yes,No,0,No
+1571896,32,6,440000,92886,1,Higher Secondary,8100,No,No,Yes,Yes,3000,No
+1572297,36,12,590000,94104,3,Higher Secondary,21600,No,No,No,No,0,No
+1572698,48,24,2240000,93940,2,Higher Secondary,0,No,Yes,Yes,Yes,66700,No
+1573099,56,31,640000,90245,2,Master's and above,0,No,No,No,No,0,No
+1573500,44,20,1290000,96001,2,Higher Secondary,0,No,No,Yes,No,0,No
+1573901,60,34,430000,92697,1,Higher Secondary,0,No,No,Yes,Yes,14000,No
+1574302,51,27,120000,92834,3,Higher Secondary,0,Yes,Yes,Yes,Yes,4000,No
+1574703,34,10,530000,94107,3,Bachelor's,0,No,No,Yes,No,0,No
+1575104,45,21,390000,93305,2,Master's and above,0,No,No,No,Yes,21000,No
+1575505,47,23,650000,93943,1,Higher Secondary,0,No,No,No,No,0,No
+1575906,29,5,180000,94122,1,Master's and above,9400,No,No,Yes,Yes,4000,No
+1576307,52,28,550000,94596,1,Master's and above,0,No,No,No,No,0,No
+1576708,61,35,600000,90245,1,Master's and above,0,No,No,Yes,No,0,No
+1577109,40,14,420000,91330,2,Higher Secondary,18700,No,No,Yes,No,0,No
+1577510,24,0,440000,90638,3,Bachelor's,0,No,No,No,No,0,No
+1577911,33,7,1110000,90245,2,Higher Secondary,0,No,No,Yes,No,0,No
+1578312,33,8,620000,94596,1,Higher Secondary,0,No,No,Yes,No,0,No
+1578713,52,26,440000,94025,2,Master's and above,14800,No,No,No,Yes,8000,No
+1579114,40,14,690000,95348,1,Master's and above,0,No,No,No,No,0,No
+1579515,45,20,620000,92064,3,Master's and above,17200,No,No,Yes,No,0,No
+1579916,27,3,350000,94080,1,Bachelor's,0,No,No,No,No,0,No
+1580317,38,13,910000,92037,1,Higher Secondary,0,No,No,Yes,Yes,28000,No
+1580718,50,26,120000,92121,1,Higher Secondary,9600,No,No,No,No,0,No
+1581119,41,15,890000,94608,3,Higher Secondary,29200,No,No,Yes,No,0,No
+1581520,60,34,650000,90024,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1581921,64,34,1790000,90024,2,Master's and above,40000,No,No,No,No,0,Yes
+1582322,34,8,820000,93106,2,Master's and above,0,Yes,Yes,Yes,Yes,15000,No
+1582723,30,6,480000,95812,1,Higher Secondary,0,No,No,Yes,No,0,No
+1583124,31,4,200000,95616,4,Bachelor's,0,No,No,Yes,No,0,No
+1583525,41,15,910000,90502,1,Master's and above,33000,Yes,No,Yes,No,0,No
+1583926,61,37,1220000,94609,2,Higher Secondary,0,No,No,Yes,No,0,No
+1584327,42,18,220000,90717,1,Master's and above,0,No,No,Yes,No,0,No
+1584728,48,23,430000,94301,2,Higher Secondary,0,No,No,Yes,No,0,No
+1585129,59,34,380000,90291,4,Higher Secondary,0,No,No,No,Yes,17000,No
+1585530,57,33,610000,92115,3,Higher Secondary,0,No,No,Yes,No,0,No
+1585931,37,13,330000,91773,4,Bachelor's,0,No,No,No,No,0,No
+1586332,53,27,1450000,95605,1,Higher Secondary,34500,No,No,No,No,0,No
+1586733,53,27,1700000,95003,1,Higher Secondary,0,No,No,Yes,No,0,No
+1587134,26,2,550000,94305,3,Bachelor's,0,No,No,Yes,No,0,No
+1587535,39,14,400000,91302,1,Master's and above,0,No,No,Yes,No,0,No
+1587936,35,11,680000,94923,2,Higher Secondary,12600,No,No,No,Yes,180000,No
+1588337,59,33,530000,90034,3,Higher Secondary,0,No,No,Yes,No,0,No
+1588738,43,18,630000,95616,3,Master's and above,0,Yes,No,No,No,0,No
+1589139,39,15,1230000,91604,2,Higher Secondary,9200,No,No,No,Yes,22000,No
+1589540,49,24,130000,95929,2,Higher Secondary,0,No,No,Yes,No,0,No
+1589941,47,23,120000,92110,4,Higher Secondary,10200,No,No,No,Yes,2000,No
+1590342,41,17,530000,93727,2,Higher Secondary,10200,No,No,Yes,No,0,No
+1590743,57,33,790000,94588,1,Bachelor's,29400,No,No,Yes,Yes,27000,No
+1591144,42,17,890000,90095,1,Bachelor's,17000,No,No,Yes,No,0,No
+1591545,61,36,1880000,91360,1,Bachelor's,0,No,No,No,No,0,Yes
+1591946,56,26,620000,91320,3,Master's and above,0,No,No,Yes,No,0,No
+1592347,29,3,1230000,92821,3,Master's and above,42800,No,No,Yes,No,0,Yes
+1592748,25,-1,400000,93117,3,Bachelor's,0,No,No,Yes,No,0,No
+1593149,32,8,1190000,94710,4,Master's and above,0,No,No,Yes,No,0,Yes
+1593550,37,12,1230000,94304,4,Bachelor's,25300,No,Yes,Yes,Yes,31000,Yes
+1593951,31,5,230000,93407,1,Bachelor's,0,No,No,Yes,Yes,4000,No
+1594352,38,14,620000,94143,1,Master's and above,25500,No,No,Yes,No,0,No
+1594753,40,14,690000,92870,3,Higher Secondary,10600,No,No,Yes,No,0,No
+1595154,61,36,1240000,94611,2,Higher Secondary,0,Yes,No,No,Yes,39000,No
+1595555,50,26,520000,93555,4,Master's and above,0,No,No,No,No,0,No
+1595956,32,7,1340000,93108,2,Higher Secondary,0,No,No,No,No,0,No
+1596357,62,36,580000,94501,1,Bachelor's,0,No,No,No,No,0,No
+1596758,62,37,450000,90033,3,Bachelor's,20000,No,No,Yes,Yes,5000,No
+1597159,40,15,750000,95449,4,Bachelor's,0,No,No,Yes,No,0,No
+1597560,59,34,230000,90009,4,Bachelor's,7800,No,No,No,No,0,No
+1597961,43,19,1230000,91107,3,Higher Secondary,0,No,No,Yes,No,0,Yes
+1598362,62,37,480000,92028,3,Higher Secondary,0,No,No,No,No,0,No
+1598763,48,22,1450000,95482,1,Higher Secondary,14000,No,No,Yes,No,0,No
+1599164,29,5,310000,93014,1,Master's and above,0,No,No,No,No,0,No
+1599565,58,32,380000,93106,3,Master's and above,0,No,No,Yes,No,0,No
+1599966,43,18,780000,94025,4,Master's and above,0,No,No,No,No,0,No
+1600367,39,15,940000,91941,2,Higher Secondary,0,No,No,Yes,No,0,No
+1600768,33,7,840000,95051,1,Master's and above,0,No,No,Yes,No,0,No
+1601169,40,15,220000,94306,1,Master's and above,0,No,No,Yes,No,0,No
+1601570,28,3,780000,93108,4,Higher Secondary,0,No,No,Yes,Yes,2000,No
+1601971,38,11,750000,94305,3,Bachelor's,0,No,No,Yes,No,0,No
+1602372,65,40,710000,95060,3,Higher Secondary,0,No,No,No,Yes,22000,No
+1602773,35,11,240000,95616,1,Master's and above,0,No,No,Yes,Yes,5000,No
+1603174,29,5,1120000,94998,2,Higher Secondary,0,No,No,Yes,Yes,43300,No
+1603575,61,35,530000,90064,1,Bachelor's,16700,No,No,Yes,No,0,No
+1603976,46,21,410000,94305,1,Master's and above,0,No,No,No,No,0,No
+1604377,50,23,250000,91330,1,Bachelor's,0,No,No,Yes,No,0,No
+1604778,60,33,420000,90277,4,Bachelor's,19400,No,No,Yes,No,0,No
+1605179,54,27,510000,94309,3,Bachelor's,11300,Yes,Yes,Yes,Yes,10000,No
+1605580,43,18,190000,92325,2,Bachelor's,0,No,No,Yes,No,0,No
+1605981,38,14,900000,93010,2,Higher Secondary,25800,Yes,Yes,Yes,Yes,0,No
+1606382,46,22,890000,92866,4,Bachelor's,0,No,No,Yes,No,0,No
+1606783,64,39,220000,92691,3,Higher Secondary,0,Yes,Yes,Yes,Yes,5000,No
+1607184,24,0,1190000,94566,1,Higher Secondary,0,No,No,Yes,No,0,No
+1607585,39,13,930000,93555,4,Master's and above,0,No,No,Yes,No,0,Yes
+1607986,34,8,180000,95741,4,Higher Secondary,0,No,No,No,No,0,No
+1608387,65,40,320000,90095,1,Master's and above,12000,No,No,Yes,No,0,No
+1608788,38,14,1820000,92152,3,Master's and above,0,No,Yes,Yes,Yes,26000,Yes
+1609189,62,36,190000,95833,2,Master's and above,0,No,No,Yes,Yes,2000,No
+1609590,59,35,850000,91330,1,Master's and above,0,No,Yes,No,Yes,34000,Yes
+1609991,49,25,900000,92709,4,Bachelor's,0,Yes,No,Yes,No,0,No
+1610392,57,32,590000,95014,2,Higher Secondary,13400,No,No,Yes,No,0,No
+1610793,64,38,840000,94571,1,Higher Secondary,0,No,No,No,No,0,No
+1611194,47,22,950000,93311,2,Bachelor's,0,No,No,No,No,0,Yes
+1611595,30,6,130000,93555,3,Master's and above,0,No,No,Yes,No,0,No
+1611996,42,18,880000,92675,4,Higher Secondary,0,No,No,Yes,Yes,8000,No
+1612397,53,28,340000,92697,2,Master's and above,0,No,No,Yes,Yes,6000,No
+1612798,50,24,110000,94501,4,Master's and above,0,No,No,No,Yes,6000,No
+1613199,62,38,800000,94545,4,Bachelor's,0,No,No,No,No,0,No
+1613600,34,10,410000,94102,1,Higher Secondary,0,No,No,No,Yes,13300,No
